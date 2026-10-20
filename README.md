@@ -1,6 +1,6 @@
 # Bind in Container
 
-Bind meds, grenades and other quick-use items from your secure container, or from a pouch inside your secure container, rig or pockets. Not your backpack.
+Bind meds and other items in your secure container that you can normal bind in just your rig or backpack.
 
 ## Install
-Extract the mod's zip into your SPT folder. On Fika, every player and the headless need it.
+Extract the mod's zip into your SPT folder. If playing on Fika, the raid host needs this mod; if you are using Headless then you MUST install it on your headless client too.
