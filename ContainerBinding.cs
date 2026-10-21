@@ -29,7 +29,7 @@ internal static class ContainerBinding
         }
 
         var address = item.CurrentAddress;
-        while (address != null)
+        while (address != null && address is not OwnerItself)
         {
             var parent = address.Container.ParentItem;
             if (parent == controller.Inventory.Equipment)
