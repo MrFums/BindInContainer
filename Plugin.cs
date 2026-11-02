@@ -3,7 +3,7 @@ using BepInEx.Configuration;
 
 namespace BindInContainer;
 
-[BepInPlugin("com.fums.bindincontainer", "Fums-BindInContainer", "1.0.3")]
+[BepInPlugin("com.fums.bindincontainer", "Fums-BindInContainer", "1.0.2")]
 [BepInDependency("com.SPT.core")]
 public class Plugin : BaseUnityPlugin
 {
